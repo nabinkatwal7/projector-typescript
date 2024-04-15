@@ -1,0 +1,15 @@
+{
+  "name": "projector-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nabinkatwal7/projector-typescript.git",
+  "author": "Nabin Katwal <91274113+nabinkatwal7@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/command-line-args": "^5.2.3",
+    "@types/node": "^20.12.7",
+    "command-line-args": "^5.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
